@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EagleStrike33
 - 👀 I’m interested in cybersecurity and all things computers.
-- 🌱 I’m currently learning C#, MVC, and a myriad of other things.
+- 🌱 I’m proficient in C#, MVC, Python, and a myriad of other things.
 - 💞️ I’m looking to collaborate on cool inovative projects.
 
 <!---
